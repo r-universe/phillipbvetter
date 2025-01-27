@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/phillipbvetter/phillipbvetter.r-universe.dev
 	branch = HEAD
+[submodule "ctsmTMB"]
+	path = ctsmTMB
+	url = https://github.com/phillipbvetter/ctsmTMB
