@@ -1,9 +1,0 @@
-[
-  {
-    "package": "RTMBode",
-    "url": "https://github.com/kaskr/RTMB",
-    "via": ["ctsmTMB"],
-    "subdir": "RTMBode",
-    "from": "ctsmTMB"
-  }
-]
