@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/phillipbvetter/phillipbvetter.r-universe.dev
 	branch = HEAD
+[submodule "RTMBode"]
+	path = RTMBode
+	url = https://github.com/kaskr/RTMB
+	subdir = RTMBode
+	registered = false
 [submodule "ctsmTMB"]
 	path = ctsmTMB
 	url = https://github.com/phillipbvetter/ctsmTMB
